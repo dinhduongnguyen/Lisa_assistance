@@ -1,0 +1,6 @@
+numpy
+pyaudio
+librosa
+wave
+tflite_runtime
+lirc
