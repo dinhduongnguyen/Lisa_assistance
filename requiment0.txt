@@ -1,0 +1,5 @@
+librosa
+tensorflow
+pyaudio
+wave
+pygame
